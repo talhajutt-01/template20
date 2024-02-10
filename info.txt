@@ -1,0 +1,207 @@
+{// cahnge title
+    "title": {
+        "title": "Updated Caraft"
+    },
+    //nav item
+    "nav": {
+        "nav0": "Home"
+    },
+    //header all text h2 is button
+    "header": {
+        "h0": "get your desired car in reasonable price",
+        "h1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "h2": "contact us"
+    },
+    // slection section all are options ans s30 is button
+    "selection": {
+        "s0": "select year",
+        "s1": "year",
+        "s2": "2018",
+        "s3": "2017",
+        "s4": "2016",
+        "s5": "body style",
+        "s6": "style",
+        "s7": "sedan",
+        "s8": "van",
+        "s9": "roadster",
+        "s10": "select make",
+        "s11": "make",
+        "s12": "toyota",
+        "s13": "holden",
+        "s14": "mercedes-benz",
+        "s15": "car condition",
+        "s16": "condition",
+        "s17": "something",
+        "s18": "something",
+        "s19": "something",
+        "s20": "select model",
+        "s21": "model",
+        "s22": "kia-rio",
+        "s23": "mitsubishi",
+        "s24": "ford",
+        "s25": "select price",
+        "s26": "price",
+        "s27": "$0.01",
+        "s28": "$0.00",
+        "s29": "$0.00",
+        "s30": "search"
+    },
+    // anntoher section all are text
+    "service": {
+        "se0": "largest dealership car",
+        "se1": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut den fugit sed quia.",
+        "se2": "unlimited repair warranty",
+        "se3": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut den fugit sed quia.",
+        "se4": "insurance support",
+        "se5": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut den fugit sed quia."
+    },
+    //another section all are text
+    "newcars": {
+        "n0": "checkout latest cars",
+        "n1": "newest cars",
+        "n2": "chevrolet camaro",
+        "n3": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "n4": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "n5": "view details",
+        "n6": "BMW series-3 wagon",
+        "n7": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "n8": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "n9": "view details",
+        "n10": "ferrari 488 superfast",
+        "n11": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "n12": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "n13": "view details"
+    },
+
+    //another section all are text
+    "featuredcars": {
+        "fc0": "checkout featured cars",
+        "fc1": "featured cars",
+        "fc2": "model: 2017",
+        "fc3": "3100 mi",
+        "fc4": "240HP",
+        "fc5": "BMW 6-series gran coupe",
+        "fc6": "$89,395",
+        "fc7": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc8": "model: 2017",
+        "fc9": "3100 mi",
+        "fc10": "240HP",
+        "fc11": "BMW 6-series gran coupe",
+        "fc12": "$89,395",
+        "fc13": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc14": "model: 2017",
+        "fc15": "3100 mi",
+        "fc16": "240HP",
+        "fc17": "BMW 6-series gran coupe",
+        "fc18": "$89,395",
+        "fc19": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc20": "model: 2017",
+        "fc21": "3100 mi",
+        "fc22": "240HP",
+        "fc23": "BMW 6-series gran coupe",
+        "fc24": "$89,395",
+        "fc25": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc26": "model: 2017",
+        "fc27": "3100 mi",
+        "fc28": "240HP",
+        "fc29": "BMW 6-series gran coupe",
+        "fc30": "$89,395",
+        "fc31": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc32": "model: 2017",
+        "fc33": "3100 mi",
+        "fc34": "240HP",
+        "fc35": "BMW 6-series gran coupe",
+        "fc36": "$89,395",
+        "fc37": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc38": "model: 2017",
+        "fc39": "3100 mi",
+        "fc40": "240HP",
+        "fc41": "BMW 6-series gran coupe",
+        "fc42": "$89,395",
+        "fc43": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc44": "model: 2017",
+        "fc45": "3100 mi",
+        "fc46": "240HP",
+        "fc47": "BMW 6-series gran coupe",
+        "fc48": "$89,395",
+        "fc49": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non.",
+        "fc50": "model: 2017"
+    },
+
+    //another section all are text
+    "slide": {
+        "c0": "what our clients say",
+        "c1": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor laudan rem aperiam, eaque ipsa quae ab illo inventore verit.",
+        "c2": "tomas lili",
+        "c3": "new york",
+        "c4": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor laudan rem aperiam, eaque ipsa quae ab illo inventore verit.",
+        "c5": "romi rain",
+        "c6": "london",
+        "c7": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor laudan rem aperiam, eaque ipsa quae ab illo inventore verit.",
+        "c8": "john doe",
+        "c9": "washington"
+    },
+
+    //another section all are text
+    "footer": {
+        "f0": "carvilla",
+        "f1": "Ased do eiusm tempor incidi ut labore et dolore magnaian aliqua. Ut enim ad minim veniam.",
+        "f2": "info@themesine.com",
+        "f3": "+1 (885) 2563154554",
+        "f4": "about devloon",
+        "f5": "top brands",
+        "f6": "news letter",
+        "f7": "Subscribe to get latest news update and informations",
+        "f8": "copyright.designed and developed by",
+        "f9": "themesine"
+    },
+
+    // change colors of differnet sections
+    "color": {
+        "nav": ".",
+        "header": ".",
+        "selection": ".",
+        "service": ".",
+        "newcars": ".",
+        "featuredcars": ".",
+        "clientssay": ".",
+        "brand": ".",
+        "blog": ".",
+        "contact": ".",
+        "footer": "."
+    }
+}
+
+
+{
+     "images": {
+        // necars section images
+        "img1": "assets/images/new-cars-model/ncm1.png",
+        "img2": "assets/images/new-cars-model/ncm2.png",
+        "img3": "assets/images/new-cars-model/ncm3.png",
+
+        // featuredcars section images
+        "img4": "assets/images/featured-cars/fc1.png",
+        "img5": "assets/images/featured-cars/fc2.png",
+        "img6": "assets/images/featured-cars/fc3.png",
+        "img7": "assets/images/featured-cars/fc4.png",
+        "img8": "assets/images/featured-cars/fc5.png",
+        "img9": "assets/images/featured-cars/fc6.png",
+        "img10": "assets/images/featured-cars/fc7.png",
+        "img11": "assets/images/featured-cars/fc8.png",
+
+        // clients slection images
+        "img12": "assets/images/clients/c1.png",
+        "img13": "assets/images/clients/c2.png",
+        "img14": "assets/images/clients/c3.png",
+
+        //barnds section at slies images
+        "img15": "assets/images/brand/br1.png",
+        "img16": "assets/images/brand/br2.png",
+        "img17": "assets/images/brand/br3.png",
+        "img18": "assets/images/brand/br4.png",
+        "img19": "assets/images/brand/br5.png",
+        "img20": "assets/images/brand/br6.png"
+     }
+
+}

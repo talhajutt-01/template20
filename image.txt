@@ -1,0 +1,25 @@
+{
+     "images": {
+        "img1": "assets/images/new-cars-model/ncm1.png",
+        "img2": "assets/images/new-cars-model/ncm2.png",
+        "img3": "assets/images/new-cars-model/ncm3.png",
+        "img4": "assets/images/featured-cars/fc1.png",
+        "img5": "assets/images/featured-cars/fc2.png",
+        "img6": "assets/images/featured-cars/fc3.png",
+        "img7": "assets/images/featured-cars/fc4.png",
+        "img8": "assets/images/featured-cars/fc5.png",
+        "img9": "assets/images/featured-cars/fc6.png",
+        "img10": "assets/images/featured-cars/fc7.png",
+        "img11": "assets/images/featured-cars/fc8.png",
+        "img12": "assets/images/clients/c1.png",
+        "img13": "assets/images/clients/c2.png",
+        "img14": "assets/images/clients/c3.png",
+        "img15": "assets/images/brand/br1.png",
+        "img16": "assets/images/brand/br2.png",
+        "img17": "assets/images/brand/br3.png",
+        "img18": "assets/images/brand/br4.png",
+        "img19": "assets/images/brand/br5.png",
+        "img20": "assets/images/brand/br6.png"
+     }
+
+}
